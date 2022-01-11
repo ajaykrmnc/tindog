@@ -1,1 +1,1 @@
-# tindog
+# ajaykrmnc.github.io/tindog
